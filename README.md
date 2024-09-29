@@ -37,6 +37,12 @@ Meditro is a comprehensive patient booking management system designed to streaml
 2. Run `npm run dev` to start the development server.
 3. Access the application via http://localhost:3000.
 
+## Deployment
+
+This project uses Vercel for deployment . 
+You can Browse The Website On Production On :
+https://medi-tro.vercel.app/
+
 ## Acknowledgments
 
 -  Next.js (https://nextjs.org/)
